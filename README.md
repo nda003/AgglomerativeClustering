@@ -1,2 +1,2 @@
-# PageRank implemented in Spark
-A PageRank implementation in Spark using RDD to do matrix-vector multiplication.
+# Agglomerative hierarchical clustering
+An implementation of agglomerative clustering using Numpy and Pandas.
